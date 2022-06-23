@@ -1,3 +1,4 @@
-favorite:
-  drink: tea
-  food: <secret:secret/data/test/demo~hello>
+mychart:
+  favorite:
+    drink: tea
+    food: <secret:secret/data/test/demo~hello>
