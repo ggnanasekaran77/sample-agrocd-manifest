@@ -1,3 +1,4 @@
 favorite:
   drink: coffee
-  food: <secret:secret/data/test/demo~hello>
+  food: burger
+  # food: <secret:secret/data/test/demo~hello>
